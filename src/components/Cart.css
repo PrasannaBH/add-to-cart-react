@@ -1,0 +1,11 @@
+.right {
+    position: fixed;
+    top: 10%;
+    right: 0;
+    height: 100%;
+    width: 450px;
+    background: #f8f8f9;
+    padding: 10px 19px;
+    z-index: 99;
+    transition: all 3s;
+}
